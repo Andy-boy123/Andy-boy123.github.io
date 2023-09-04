@@ -75,7 +75,7 @@ ga_domain:
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "on the way"
-sidebar-avatar: https://andylive.cn/wp-content/uploads/2023/09/avatar.jpg  # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://pic.imgdb.cn/item/64f5c57e661c6c8e5458fb15.jpg  # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
