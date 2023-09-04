@@ -1,1 +1,3 @@
-Hey, I am 
+Who am I?
+
+>I am an undergraduate majoring in computer science and enjoy photography and tossing. I am a konjac. This website is built to record one's own tumultuous experiences, which may be used in the future to update some of one's problem-solving and learning records. The station was built about two years ago, but there was no time to operate at that time, and it will be actively open for business in the future—— Written at the beginning of 2022
