@@ -9,8 +9,6 @@ tags:
     - python
 ---
 
-#python爬虫学习
-
 
 ```
 安装beautiful soup插件
